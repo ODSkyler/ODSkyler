@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm OD Skyler 👋</h1>
 
 <p align="center">
-Beginner developer building <strong>Rhythmax</strong>, an open-source music player.<br>
+Beginner developer building <strong>Rhythmax</strong>, a music player that lets you play music from various sources.<br>
 Learning by building real projects.
 </p>
 
@@ -39,7 +39,6 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <li>Offline + online music playback</li>
 <li>Clean and responsive UI</li>
 <li>Multiple music sources</li>
-<li>Open-source and community driven</li>
 </ul>
 
 <p>
@@ -51,12 +50,9 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <!-- Tech Stack -->
 <h2>🛠 Tech I'm Using</h2>
 
-<ul>
-<li>Flutter</li>
-<li>Dart</li>
-<li>Android Studio</li>
-<li>Git</li>
-</ul>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git" />
+</p>
 
 <hr>
 
@@ -64,6 +60,7 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <h2>📚 Currently Learning</h2>
 
 <ul>
+<li>Flutter</li>
 <li>App architecture</li>
 <li>Audio playback systems</li>
 <li>Music metadata & streaming APIs</li>
