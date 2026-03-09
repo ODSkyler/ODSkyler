@@ -68,15 +68,6 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 
 <hr>
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ODSkyler&show_icons=true" alt="GitHub stats">
-</p>
-
-<hr>
-
 <!-- Footer -->
 <p align="center">
 <i>Learn by building real projects.</i>
