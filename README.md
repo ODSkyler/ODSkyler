@@ -50,8 +50,24 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <!-- Tech Stack -->
 <h2>🛠 Tech I'm Using</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git" />
+<p align="center">
+
+<a href="https://flutter.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=flutter" height="50"/>
+</a>
+
+<a href="https://dart.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=dart" height="50"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+<img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
 </p>
 
 <hr>
