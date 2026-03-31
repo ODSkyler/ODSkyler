@@ -29,7 +29,7 @@ Learning by building real projects.
 <h3>Rhythmax</h3>
 
 <p>
-Rhythmax is a lightweight music player focused on performance, simplicity, and freedom.
+Rhythmax is a music player focused on performance, simplicity, and freedom.
 It supports both <strong>offline playback</strong> and <strong>online streaming</strong>.
 </p>
 
