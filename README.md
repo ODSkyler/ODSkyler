@@ -68,6 +68,10 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 </a>
 
+<a href="https://git-scm.com" title="Visual Studio Code" style="margin:10px;">
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+</a>
+
 </p>
 
 <hr>
