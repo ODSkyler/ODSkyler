@@ -41,10 +41,6 @@ It supports both <strong>offline playback</strong> and <strong>online streaming<
 <li>Multiple music sources</li>
 </ul>
 
-<p>
-🔗 <a href="https://github.com/ODSkyler/Rhythmax">View Rhythmax Repository</a>
-</p>
-
 <hr>
 
 <!-- Tech Stack -->
